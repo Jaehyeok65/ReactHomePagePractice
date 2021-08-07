@@ -1,0 +1,16 @@
+
+.CardContent {
+    height: 130px ; display: table-cell; vertical-align: middle;
+}
+
+.head {
+    text-align: center;
+}
+
+.man {
+    Display: flex;
+Align-Items: center;
+Justify-Content: center;
+
+}
+
